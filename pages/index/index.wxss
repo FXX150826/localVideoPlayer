@@ -1,0 +1,16 @@
+/**index.wxss**/
+video{
+  width: 100%;
+}
+image{
+  width: 150px;
+  height: 80px;
+
+  /*外边距
+    一个参数：上下左右
+    两个参数：上下 左右
+    三个参数：上 左右 下
+    四个参数： 上 下 左 右
+  */
+  margin: 20px;
+}

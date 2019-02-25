@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<view class='container'>
+<!--ctrl+/快速生成注释-->
+  <!--引入视频标签-->
+  <video src='{{res}}'></video>
+  <!--引入图片作为按钮-->
+  <image src='image/player.png' bindtap='chooseVideo'></image>
+</view>
